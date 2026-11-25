@@ -1,0 +1,5 @@
+# Konfigurasi Server A — RS App
+config/app.php
+
+# File hasil build / cache (opsional)
+*.log

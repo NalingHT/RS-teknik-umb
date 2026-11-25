@@ -1,0 +1,4 @@
+# Blokir akses langsung ke folder sensitif via browser
+# File ini melindungi config/, core/, partials/
+
+Require all denied
